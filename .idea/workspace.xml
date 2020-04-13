@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f508281b-7e53-4b60-a652-148c4defe2b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/projects/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProjectsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProjectsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Project.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Project.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/ProjectTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ProjectTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Unit/ProjectTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/ProjectTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ProjectTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ManageProjectsTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +164,7 @@
       <workItem from="1586619190590" duration="7388000" />
       <workItem from="1586689346642" duration="3125000" />
       <workItem from="1586706759931" duration="3617000" />
-      <workItem from="1586784100433" duration="366000" />
+      <workItem from="1586784100433" duration="1611000" />
     </task>
     <servers />
   </component>
@@ -174,10 +172,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="686" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586621780593">
+    <state x="686" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586784940052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="686" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586621780593" />
+    <state x="686" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586784940052" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1586620751941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -190,9 +188,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586620764416" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586711028557">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586785222052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586711028557" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586785222052" />
   </component>
 </project>
